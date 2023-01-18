@@ -56,6 +56,7 @@ function App() {
     <>
           <Navbar title="Text-Utils" mode={mode} toggleMode={toggleMode} />
           <Alert alert={alert} />
+          <TextForm heading="Enter Your Text Here :" alertMsg={alertMsg} />
         <Routes>
         <Route path="/" element={<TextForm heading="Enter Your Text Here :" alertMsg={alertMsg} />}/>
         <Route path="/about" element={<About/>}/>  
