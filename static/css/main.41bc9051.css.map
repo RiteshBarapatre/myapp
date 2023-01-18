@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.41bc9051.css","mappings":"AAAA,cACI,WACJ,CACA,iBACI,WAAY,CACZ,gBAAiB,CACjB,iBACJ","sources":["App.css"],"sourcesContent":[".form-control{\r\n    resize: none;\r\n}\r\n.scrollable-menu {\r\n    height: auto;\r\n    max-height: 200px;\r\n    overflow-x: hidden;\r\n}\r\n"],"names":[],"sourceRoot":""}
